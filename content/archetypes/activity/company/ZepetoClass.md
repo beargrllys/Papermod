@@ -1,17 +1,17 @@
 ---
-title: "Contacts"
-date: 2022-08-14T03:53:16+09:00
+title: "하남시 청소년 수련관 제패토 교육"
+date: 2022-08-14T18:08:34+09:00
 # weight: 2
 # aliases: ["/first"]
-tags: ["contact"]
-author: "Me"
+tags: ["illisoft", "Education", "ARVR"]
+author: "Multitab"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: true
-description: "testing"
+comments: false
+description: "군 전역 후 같이 프로젝트를 진행했던 친구와 함께 '일리소프트' 기업을 공동창업함"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -31,11 +31,6 @@ caption: "<text>" # display caption under cover
 relative: false # when using page bundles set this to true
 hidden: true # only hide on current single page
 editPost:
-Text: "Suggest Changes" # edit text
+Text: "Go Repository" # edit text
 appendFilePath: true # to append file path to Edit link
 ---
-
-Email : js_7744@naver.com  
-Blog(공부/정리) : https://diy-multitab.tistory.com/  
-Github : https://github.com/beargrllys  
-KakaoTalk Openchat :  https://open.kakao.com/o/s4OsQfMc

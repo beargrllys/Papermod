@@ -1,17 +1,23 @@
 ---
-title: "Contacts"
-date: 2022-08-14T03:53:16+09:00
+title: "[소프트웨어공학] 애자일 프로세스로 웹사이트 개발"
+date: 2022-08-14T18:55:40+09:00
+draft: true
+---
+
+---
+title: "[오픈소스 응용] 패턴 기억 게시판 만들기"
+date: 2022-08-14T19:04:15+09:00
 # weight: 2
 # aliases: ["/first"]
-tags: ["contact"]
-author: "Me"
+tags: ["class", "Agile", "Vue.js", "WebApp"]
+author: "Multitab"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "testing"
+description: "프로그래밍 설계방법론 JAVA 수업 시간에 만든 달력 프로그램"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -31,11 +37,7 @@ caption: "<text>" # display caption under cover
 relative: false # when using page bundles set this to true
 hidden: true # only hide on current single page
 editPost:
-Text: "Suggest Changes" # edit text
+Text: "Go Repository" # edit text
 appendFilePath: true # to append file path to Edit link
 ---
 
-Email : js_7744@naver.com  
-Blog(공부/정리) : https://diy-multitab.tistory.com/  
-Github : https://github.com/beargrllys  
-KakaoTalk Openchat :  https://open.kakao.com/o/s4OsQfMc

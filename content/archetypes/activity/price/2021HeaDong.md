@@ -1,17 +1,17 @@
 ---
-title: "Contacts"
-date: 2022-08-14T03:53:16+09:00
+title: "2021 해동창업 경진대회 대상"
+date: 2022-08-14T18:01:01+09:00
 # weight: 2
 # aliases: ["/first"]
-tags: ["contact"]
-author: "Me"
+tags: ["price", "illisoft"]
+author: "Multitab"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "testing"
+description: "처음으로 코딩을 시작하면서 PyGame을 이용해 게임을 개발해 나가는 과정을 경험한 프로젝트"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -31,11 +31,6 @@ caption: "<text>" # display caption under cover
 relative: false # when using page bundles set this to true
 hidden: true # only hide on current single page
 editPost:
-Text: "Suggest Changes" # edit text
+Text: "Go Repository" # edit text
 appendFilePath: true # to append file path to Edit link
 ---
-
-Email : js_7744@naver.com  
-Blog(공부/정리) : https://diy-multitab.tistory.com/  
-Github : https://github.com/beargrllys  
-KakaoTalk Openchat :  https://open.kakao.com/o/s4OsQfMc

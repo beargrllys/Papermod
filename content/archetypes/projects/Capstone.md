@@ -1,9 +1,9 @@
 ---
-title: "캡스톤 프로젝트"
+title: "캡스톤, 커넥티드 식물재배기"
 date: 2022-08-14T02:55:41+09:00
 # weight: 2
 # aliases: ["/first"]
-tags: ["projects"]
+tags: ["projects", "Hardware" ,"Server", "Agile", "C/C++", "Go", "product"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "testing"
+description: "졸업 작품 프로젝트로 IOT 분야와 관련해서 흔히 진행되는 주제인 '식물재배기'를 제작해보는 프로젝트"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false

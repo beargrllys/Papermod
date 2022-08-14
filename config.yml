@@ -80,7 +80,7 @@ params:
     - name: github
       url: "https://github.com/beargrllys"
     - name: linkedin
-      url: "https://www.linkedin.com/in/%EC%A7%80%EC%83%81-%EC%9C%A4-5394a0205/"
+      url: "https://www.linkedin.com/in/%EC%A7%80%EC%83%81-%EC%9C%A4-52b375155/"
     - name: instagram
       url: "https://www.instagram.com/js774433/"
 
@@ -122,14 +122,30 @@ menu:
       name: Projects
       url: /tags/projects/
       weight: 20
+    - identifier: Company
+      name: Company
+      url: /tags/company/
+      weight: 30
+    - identifier: Price
+      name: Price
+      url: /tags/price/
+      weight: 40
+    - identifier: Social
+      name: Social
+      url: /tags/social/
+      weight: 50
+    - identifier: Class
+      name: Class
+      url: /tags/class/
+      weight: 60
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 30
+      weight: 70
     - identifier: contact
       name: Contacts
       url: /contact/contacts/
-      weight: 40
+      weight: 80
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

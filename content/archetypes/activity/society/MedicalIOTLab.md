@@ -1,17 +1,17 @@
 ---
-title: "Contacts"
-date: 2022-08-14T03:53:16+09:00
+title: "Medical IOT 연구실 학부 연구생 활동"
+date: 2022-08-14T18:02:18+09:00
 # weight: 2
 # aliases: ["/first"]
-tags: ["contact"]
-author: "Me"
+tags: ["social", "research", "Hardware", "SystemProgramming"]
+author: "Multitab"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "testing"
+description: "가상 환경하에서의 실감재현을 위한 초다채널 음원 처리 연구"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -31,11 +31,6 @@ caption: "<text>" # display caption under cover
 relative: false # when using page bundles set this to true
 hidden: true # only hide on current single page
 editPost:
-Text: "Suggest Changes" # edit text
+Text: "Go Repository" # edit text
 appendFilePath: true # to append file path to Edit link
 ---
-
-Email : js_7744@naver.com  
-Blog(공부/정리) : https://diy-multitab.tistory.com/  
-Github : https://github.com/beargrllys  
-KakaoTalk Openchat :  https://open.kakao.com/o/s4OsQfMc

@@ -1,17 +1,17 @@
 ---
-title: "Test"
-date: 2022-08-14T02:55:41+09:00
-# weight: 1
+title: "HY3D AR 3D 프린팅 교육 어플 제작"
+date: 2022-08-14T18:17:56+09:00
+# weight: 2
 # aliases: ["/first"]
-tags: ["first"]
-author: "Me"
+tags: ["projects", "illisoft", "Minor", "Hardware", "Unity"]
+author: "Multitab"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
-description: "Desc Text."
+comments: true
+description: "Vuforia AR Kit를 이용해 AR 교육 콘텐츠를 기획하고 개발한 프로젝트 "
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -31,6 +31,6 @@ caption: "<text>" # display caption under cover
 relative: false # when using page bundles set this to true
 hidden: true # only hide on current single page
 editPost:
-Text: "Suggest Changes" # edit text
+Text: "Go Repository" # edit text
 appendFilePath: true # to append file path to Edit link
 ---

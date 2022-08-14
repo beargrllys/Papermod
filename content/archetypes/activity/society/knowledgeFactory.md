@@ -1,9 +1,9 @@
 ---
-title: "Contacts"
-date: 2022-08-14T03:53:16+09:00
+title: "KnowledgeFactory Staff 근무"
+date: 2022-08-14T17:55:29+09:00
 # weight: 2
 # aliases: ["/first"]
-tags: ["contact"]
+tags: ["social", "Sincerity"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -34,8 +34,3 @@ editPost:
 Text: "Suggest Changes" # edit text
 appendFilePath: true # to append file path to Edit link
 ---
-
-Email : js_7744@naver.com  
-Blog(공부/정리) : https://diy-multitab.tistory.com/  
-Github : https://github.com/beargrllys  
-KakaoTalk Openchat :  https://open.kakao.com/o/s4OsQfMc
